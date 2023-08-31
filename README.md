@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <a style="font-color: aqua;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/">LinkedIn</a>
-  <a style="font-color: aqua;" href="https://www.instagram.com/idipangkar.io/">Instagram</a>
-  <a style="font-color: aqua;" href="https://www.youtube.com/channel/UCQ3Ys9bhFsUde9aZkdrXWbw">YouTube</a>
+  <a style="font-color: aqua;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/"> <strong>LinkedIn </strong></a>
+  <a style="font-color: aqua;" href="https://www.instagram.com/idipangkar.io/"><strong>Instagram</strong></a>
+  <a style="font-color: aqua;" href="https://www.youtube.com/channel/UCQ3Ys9bhFsUde9aZkdrXWbw"><strong>YouTube</strong></a>
 </div>
 
 ###
@@ -30,9 +30,7 @@
 
 ###
 
-<h3 align="left">🛠Programming Language</h3> <p> C | JavaScript | Python</p>
-<h3 align="left">🛠Programming Language</h3> <p> C | JavaScript | Python</p>
-
+<h3 align="left">🛠Programming Language: | C | JavaScript | Pythong | Node | </h3>
 ###
 
 <div align="left">
