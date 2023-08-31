@@ -5,9 +5,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a style="display: inline-block;
+  color:#66fcf1;
+  padding: 0.3rem 1.2rem;
+  border-radius: 0.35rem;
+  cursor: pointer;
+
+  background: linear-gradient(#1f2833, #1f2833) padding-box,
+    linear-gradient(60deg, #00f, #ff0000) border-box;
+
+  border: 0.09rem solid transparent;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/">LinkedIn</a>
 </div>
 
 ###
