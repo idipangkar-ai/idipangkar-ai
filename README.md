@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a style="color: aqua;">LinkedIn</a>
+  <a style="color: aqua;" href="">LinkedIn</a>
 </div>
 
 ###
