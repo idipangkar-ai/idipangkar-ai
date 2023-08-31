@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Dipangkar Hajong from Meghalaya NorthEast, Living In Hyderabad<br><br><br>- 📚 I'm currently learning AI and ML | AWS<br>- ⚡ In my free time I Play Mobile Gaming</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Programming Language: C | JavaScript | Python</h3>
 
 ###
 
