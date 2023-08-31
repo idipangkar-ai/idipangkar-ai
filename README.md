@@ -5,14 +5,7 @@
 ###
 
 <div align="center">
-  <a style="display: inline-block;
-  color:#66fcf1;
-  padding: 0.3rem 1.2rem;
-  border-radius: 0.35rem;
-  cursor: pointer;
-  background: linear-gradient(#1f2833, #1f2833) padding-box,
-    linear-gradient(60deg, #00f, #ff0000) border-box;
-  border: 0.09rem solid transparent;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/">LinkedIn</a>
+  <a style="display: inline-block; color:cyan; padding: 0.3rem 1.2rem; border-radius: 0.35rem; cursor: pointer; background: linear-gradient(green, red) padding-box, linear-gradient(60deg, yellow, blue) border-box; border: 0.09rem solid transparent;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/">LinkedIn</a>
 </div>
 
 ###
