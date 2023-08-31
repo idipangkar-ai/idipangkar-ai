@@ -26,11 +26,12 @@
 
 ###
 
-<p align="left">I'm Dipangkar Hajong from Meghalaya NorthEast India, Living In Hyderabad.<br>  I build new projects just to tickle my brain. <br > <br >While I keep busy Learning new things and making project. <br > I still take interviews in search of a team & projects that interest me. <br ><br>- 📚 I'm currently learning AI & ML | AWS |<br>- ⚡ In my free time I Play Mobile Game 😁</p>
+<p align="left">I'm Dipangkar Hajong from Meghalaya NorthEast India, Living In Hyderabad.<br>  I build new projects just to tickle my brain. <br > <br >While I keep busy Learning new things and making project. <br > I still take interviews in search of a team & projects that interest me. <br ><br>📚 I'm currently learning AI & ML | AWS |<br>⚡ In my free time I Play Mobile Game 😁</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠Programming Language</h3> <p> C | JavaScript | Python</p>
+<h3 align="left">🛠Programming Language</h3> <p> C | JavaScript | Python</p>
 
 ###
 
