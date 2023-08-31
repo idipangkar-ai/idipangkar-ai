@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <a style="color: aqua;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/">LinkedIn</a>
-  <a style="color: aqua;" href="https://www.instagram.com/idipangkar.io/">Instagram</a>
-  <a style="color: aqua;" href="https://www.youtube.com/channel/UCQ3Ys9bhFsUde9aZkdrXWbw">YouTube</a>
+  <a style="font-color: aqua;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/">LinkedIn</a>
+  <a style="font-color: aqua;" href="https://www.instagram.com/idipangkar.io/">Instagram</a>
+  <a style="font-color: aqua;" href="https://www.youtube.com/channel/UCQ3Ys9bhFsUde9aZkdrXWbw">YouTube</a>
 </div>
 
 ###
