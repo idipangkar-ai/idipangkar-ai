@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a style="display: inline-block; color:cyan; padding: 0.3rem 1.2rem; border-radius: 0.35rem; cursor: pointer; background: linear-gradient(green, red) padding-box, linear-gradient(60deg, yellow, blue) border-box; border: 0.09rem solid transparent;" href="https://www.linkedin.com/in/dipangkar-hajong-071231276/">LinkedIn</a>
+  <a style="color: aqua;">LinkedIn</a>
 </div>
 
 ###
