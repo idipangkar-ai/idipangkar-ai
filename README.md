@@ -1,45 +1,72 @@
-# 👋 Hi, I’m [@idipangkar-ai](https://github.com/idipangkar-ai)
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/142708646?s=400&u=2a67c5784bf343e1f5a46057fb6393fc7048c60e&v=4"  />
+</div>
 
-## About Me
+###
 
-- 🌍 **Location:** [Your City, Country]
-- 💼 **Current Role:** [Your Current Job or Role]
-- 🎓 **Education:** [Your Highest Degree or Field of Study]
+<div align="center">
+  <a href="https://www.linkedin.com/in/idipangkar-ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="www.youtube.com/@Dipangkar-H" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/23104019/dipangkar-h" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+</div>
 
-## Interests
+###
 
-- 👀 I’m interested in:
-  - [Your interests, e.g., AI, web development, open-source projects]
-  - [Other hobbies or areas of interest]
+<h1 align="center">hey there 👋</h1>
 
-## Learning & Development
+###
 
-- 🌱 I’m currently learning:
-  - [Languages, frameworks, or technologies you are learning]
-  - [Any specific projects or goals you are working on]
+<h3 align="left">👩‍💻  About Me</h3>
 
-## Collaboration
+###
 
-- 💞️ I’m looking to collaborate on:
-  - [Type of projects or areas where you’re seeking collaboration]
-  - [Specific technologies or tools you are excited about]
+<p align="left">I'm from - Meghalaya Northeast India<br><br>- 🔭 I’m working as "Software Development Engineer" @FORRCE Pvt Ltd<br>- 📚 I'm currently learning "Data Science & Artificial Intelligence"<br>- ⚡ In my free time "I build new PROJECTS just to TICKLE my brain"</p>
 
-## Contact Me
+###
 
-- 📫 How to reach me:
-  - Email: [your.email@example.com]
-  - [LinkedIn](https://www.linkedin.com/in/your-profile)
-  - [Twitter](https://twitter.com/yourhandle)
+<h3 align="left">🛠 Language and tools</h3>
 
-## Pronouns
+###
 
-- 😄 Pronouns: [Your preferred pronouns, e.g., he/him, she/her, they/them]
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
-## Fun Fact
+###
 
-- ⚡ Fun fact: [Something interesting or quirky about you]
+<h3 align="left">🔥   My Stats :</h3>
 
-<!---
-[idipangkar-ai/idipangkar-ai](https://github.com/idipangkar-ai) is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
