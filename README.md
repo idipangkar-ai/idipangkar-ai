@@ -20,16 +20,13 @@
 </div>
 <hr>
 
-<p>Hey there! 👋 I'm Dipangkar Hajong</p>
-
+<p>Hey there! 👋 I'm <strong>Dipangkar Hajong</strong></p>
 <p>I’m a <strong>Software Development Engineer (SDE)</strong> with a background in <strong>Mechanical Engineering</strong>. I love building things with code and diving into new tech to solve real-world problems. Currently, I’m working at <strong>Forrce Infotech Solutions</strong> in Hyderabad, where I get to play with everything from cloud computing to web development.</p>
-
 <hr>
 
 <p><strong>A little about my background:</strong></p>
 <p><strong>Education:</strong> I earned my <strong>B.Tech</strong> in Mechanical Engineering (2018-2022) at <strong>Bharath Institute of Higher Education</strong> in Chennai. But, my real passion has always been software development, and I made the leap into tech right after graduation.</p>
 <p><strong>Tech stack:</strong> I work with tools like <strong>React</strong>, <strong>Node.js</strong>, <strong>AWS</strong>, and <strong>MongoDB</strong>, and I’m constantly learning new stuff to keep my skills sharp.</p>
-
 <hr>
 
 <p><strong>When I'm not coding:</strong><br>
