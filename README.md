@@ -29,7 +29,12 @@
 
 ###
 
-<p align="left">I'm from - Meghalaya Northeast India<br><br>- 🔭 I’m working as "Software Development Engineer" @Forrce Infotech Solutions India Pvt Ltd<br>- 📚 I'm currently learning "Data Science & Artificial Intelligence"<br>- ⚡ In my free time "I build new PROJECTS just to TICKLE my brain"</p>
+<p align="left">Dipangkar Hajong<br><br>
+  <hr>
+  <br> <b> Current Address: Hi-Tech City, Hyderabad </b>
+  <br>Software Development Engineer (SDE) @Forrce Infotech Solutions India Pvt Ltd
+  <br>- 📚 I'm currently learning "Data Science & Artificial Intelligence"
+  <br>- ⚡ In my free time "I build new PROJECTS just to TICKLE my brain"</p>
 
 ###
 
