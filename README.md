@@ -27,7 +27,7 @@
 
 ###
 <p align="left",> <b> Dipangkar Hajong </b> </p>
-  <p><br>Software Development Engineer
+  <p>Software Development Engineer
   <hr>
   <b> Current Address:</b>
   <br>Madhura Hills, Shaikpet, Hyderabad, 500008 <br>
