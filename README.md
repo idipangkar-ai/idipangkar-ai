@@ -23,7 +23,7 @@
 <h1 align="center">Hello Guys👋</h1>
 
 ###
-<h3 align="left">👩‍💻About Me</h3>
+<h3 align="left">About Me👩‍💻</h3>
 <p align="left",> <b> Dipangkar Hajong </b>
   <br> <i>Software Development Engineer</i>
   <hr>
