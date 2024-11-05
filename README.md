@@ -25,7 +25,8 @@
 ###
 <h3 align="left">About Me👩‍💻</h3>
 <p align="left",> <b> Dipangkar Hajong </b>
-  <br> <i>Software Development Engineer</i>
+  <br> Bachelor of Technology in Mechanical Engineering, 2018 - 2022
+  <br> Bharath Institute of Higher Education and Research – Chennai, Tamil Nadu
   <hr>
   <b> Current Address:</b>
   <br>Madhura Hills, Shaikpet, Hyderabad, 500008 <br>
