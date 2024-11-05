@@ -34,7 +34,7 @@
   <hr>
   <b> Current Address:</b>
   <br>Hi-Tech City, Hyderabad
-  <b> Home Address:</b>
+  <br><b> Home Address:</b>
   <br>North-East India
   <b> Profession:</b>
   <br>Software Development Engineer (SDE) @Forrce Infotech Solutions India Pvt Ltd
