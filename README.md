@@ -28,8 +28,9 @@
 <h3 align="left">👩‍💻About Me</h3>
 
 ###
+<p style="text-align: left; font-size: 24px;">Dipangkar Hajong</p>
 
-<p align="left">Dipangkar Hajong
+<p align="left", font-size: 24px>Dipangkar Hajong
   <br>Software Development Engineer
   <hr>
   <b> Current Address:</b>
