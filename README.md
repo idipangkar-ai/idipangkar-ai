@@ -26,8 +26,8 @@
 <h3 align="left">👩‍💻About Me</h3>
 
 ###
-<p align="left",> <h3> Dipangkar Hajong </h3>
-  <br>Software Development Engineer
+<p align="left",> <h3> Dipangkar Hajong </h3> </p>
+  <p><br>Software Development Engineer
   <hr>
   <b> Current Address:</b>
   <br>Madhura Hills, Shaikpet, Hyderabad, 500008 <br>
