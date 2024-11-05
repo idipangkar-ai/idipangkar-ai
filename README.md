@@ -29,9 +29,9 @@
 
 ###
 
-<p align="left">Dipangkar Hajong<br><br>
+<p align="left">Dipangkar Hajong<br>
   <hr>
-  <br> <b> Current Address: Hi-Tech City, Hyderabad </b>
+  <b> Current Address: Hi-Tech City, Hyderabad </b>
   <br>Software Development Engineer (SDE) @Forrce Infotech Solutions India Pvt Ltd
   <br>- 📚 I'm currently learning "Data Science & Artificial Intelligence"
   <br>- ⚡ In my free time "I build new PROJECTS just to TICKLE my brain"</p>
