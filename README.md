@@ -25,7 +25,7 @@
 ###
 <h3 align="left">👩‍💻About Me</h3>
 ###
-<p align="left",> <b> Dipangkar Hajong </b>
+<p align="left",> <h1> Dipangkar Hajong </h1>
   <br>Software Development Engineer
   <hr>
   <b> Current Address:</b>
