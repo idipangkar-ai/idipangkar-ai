@@ -20,17 +20,12 @@
 </div>
 
 ###
-
 <h1 align="center">Hello Guys👋</h1>
 
 ###
-
 <h3 align="left">👩‍💻About Me</h3>
-
 ###
-<p style="text-align: left; font-size: 24px;">Dipangkar Hajong</p>
-
-<p align="left", font-size: 24px>Dipangkar Hajong
+<p align="left",> <b> Dipangkar Hajong </b>
   <br>Software Development Engineer
   <hr>
   <b> Current Address:</b>
