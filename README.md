@@ -19,22 +19,14 @@
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
 </div>
 
-###
-<h1 align="center">Hello Guys👋</h1>
+Hey there! 👋 I'm Dipangkar Hajong
+I’m a Software Development Engineer (SDE) with a background in Mechanical Engineering. I love building things with code and diving into new tech to solve real-world problems. Currently, I’m working at Forrce Infotech Solutions in Hyderabad, where I get to play with everything from cloud computing to web development.
 
-###
-<h3 align="left">About Me👩‍💻</h3>
-<p align="left",> <b> Dipangkar Hajong </b>
-  <br> Bachelor of Technology in Mechanical Engineering, 2018 - 2022
-  <br> Bharath Institute of Higher Education and Research – Chennai, Tamil Nadu
-  <hr>
-  <b> Current Address:</b>
-  <br>Madhura Hills, Shaikpet, Hyderabad, 500008 <br>
-  <br><b> Home Address:</b>
-  <br>North-East India <br>
-  <br><b> Profession:</b> Software Development Engineer (SDE)
-  <br> <b>Company: </b>Forrce Infotech Solutions India Pvt Ltd
-  <br><b>Address: </b>Sandhya Techno 1, 815/B, Main Road, Radhe Nagar, Gachibowli, Rai Durg, Hyderabad, Telangana 500032
+A little about my background:
+Education: I earned my B.Tech in Mechanical Engineering (2018-2022) at Bharath Institute of Higher Education in Chennai. But, my real passion has always been software development, and I made the leap into tech right after graduation.
+Tech stack: I work with tools like React, Node.js, AWS, and MongoDB, and I’m constantly learning new stuff to keep my skills sharp.
+When I'm not coding:
+You’ll usually find me playing BGMI or MLBB (Mobile Legends: Bang Bang)—I’m always up for some good gaming sessions! I also enjoy working on personal projects, where I get to experiment with new technologies and sharpen my problem-solving skills.
 
 ###
 
