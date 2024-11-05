@@ -19,14 +19,27 @@
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
 </div>
 
-Hey there! 👋 I'm Dipangkar Hajong
-I’m a Software Development Engineer (SDE) with a background in Mechanical Engineering. I love building things with code and diving into new tech to solve real-world problems. Currently, I’m working at Forrce Infotech Solutions in Hyderabad, where I get to play with everything from cloud computing to web development.
+<p>Hey there! 👋 I'm Dipangkar Hajong</p>
 
-A little about my background:
-Education: I earned my B.Tech in Mechanical Engineering (2018-2022) at Bharath Institute of Higher Education in Chennai. But, my real passion has always been software development, and I made the leap into tech right after graduation.
-Tech stack: I work with tools like React, Node.js, AWS, and MongoDB, and I’m constantly learning new stuff to keep my skills sharp.
-When I'm not coding:
-You’ll usually find me playing BGMI or MLBB (Mobile Legends: Bang Bang)—I’m always up for some good gaming sessions! I also enjoy working on personal projects, where I get to experiment with new technologies and sharpen my problem-solving skills.
+<p>I’m a <strong>Software Development Engineer (SDE)</strong> with a background in <strong>Mechanical Engineering</strong>. I love building things with code and diving into new tech to solve real-world problems. Currently, I’m working at <strong>Forrce Infotech Solutions</strong> in Hyderabad, where I get to play with everything from cloud computing to web development.</p>
+
+<hr>
+
+<p><strong>A little about my background:</strong></p>
+<p><strong>Education:</strong> I earned my <strong>B.Tech</strong> in Mechanical Engineering (2018-2022) at <strong>Bharath Institute of Higher Education</strong> in Chennai. But, my real passion has always been software development, and I made the leap into tech right after graduation.</p>
+<p><strong>Tech stack:</strong> I work with tools like <strong>React</strong>, <strong>Node.js</strong>, <strong>AWS</strong>, and <strong>MongoDB</strong>, and I’m constantly learning new stuff to keep my skills sharp.</p>
+
+<hr>
+
+<p><strong>When I'm not coding:</strong><br>
+You’ll usually find me playing <strong>BGMI</strong> or <strong>MLBB</strong> (Mobile Legends: Bang Bang)—I’m always up for some good gaming sessions!<br>
+I also enjoy working on <strong>personal projects</strong>, where I get to experiment with new technologies and sharpen my problem-solving skills.</p>
+
+<hr>
+
+<p><strong>Let’s Connect:</strong><br>
+<a href="[GitHub Profile]" target="_blank">GitHub</a> | <a href="[LinkedIn Profile]" target="_blank">LinkedIn</a></p>
+
 
 ###
 
