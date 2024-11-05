@@ -29,15 +29,12 @@
   <br>Software Development Engineer
   <hr>
   <b> Current Address:</b>
-  <br>Hi-Tech City, Hyderabad <br>
+  <br>Madhura Hills, Shaikpet, Hyderabad, 500008 <br>
   <br><b> Home Address:</b>
   <br>North-East India <br>
   <br><b> Profession:</b> Software Development Engineer (SDE)
   <br> <b>Company: </b>Forrce Infotech Solutions India Pvt Ltd
   <br><b>Address: </b>Sandhya Techno 1, 815/B, Main Road, Radhe Nagar, Gachibowli, Rai Durg, Hyderabad, Telangana 500032
-  
-  <br>- 📚 I'm currently learning "Data Science & Artificial Intelligence"
-  <br>- ⚡ In my free time "I build new PROJECTS just to TICKLE my brain"</p>
 
 ###
 
